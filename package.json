@@ -2,5 +2,9 @@
   "name": "Omnistack11",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "expo-cli": "^3.16.0",
+    "global": "^4.4.0"
+  }
 }
